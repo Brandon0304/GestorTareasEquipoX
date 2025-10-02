@@ -1,5 +1,3 @@
-print('Bienvenido al Gestor de Tareas en Python')
-
 # Listar tareas - Paradigma POO
 
 class GestorTareas:
